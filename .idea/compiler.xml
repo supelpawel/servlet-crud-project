@@ -9,5 +9,8 @@
         <module name="Workshop3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jee-user-crud" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
