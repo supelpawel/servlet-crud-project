@@ -8,9 +8,9 @@ This project is the simple web application allowing to manage users (CRUD operat
 ## Technologies
 Project is created with:
 * Java 18
+* Maven
 * Servlets
 * MySQL
-* Maven
 * BCrypt
 * CSS
 
