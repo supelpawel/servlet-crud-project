@@ -10,6 +10,7 @@ Project is created with:
 * Java 18
 * Maven
 * Servlets
+* JSTL
 * MySQL
 * BCrypt
 * CSS
